@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
+}
+
+#heading {
+    color: rgb(72, 35, 6);
+    font-size: 40px;
+    font-weight: 300;
+    margin: 13px;
+}
+
+input {
+    padding: 8px;
+    width: 250px;
+    margin-bottom: 15px;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 5px;
+    background-color: beige;
+}
+
+#map {
+    height: 482px;
+}
