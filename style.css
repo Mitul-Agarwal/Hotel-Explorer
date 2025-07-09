@@ -1,4 +1,5 @@
 body {
+    height: 100%;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     margin: 0;
@@ -24,5 +25,6 @@ input {
 }
 
 #map {
-    height: 482px;
+    flex-grow: 1;
+    width: 100%;
 }
